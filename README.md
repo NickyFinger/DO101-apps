@@ -1,2 +1,3 @@
 # DO101-apps
-openshift testing
+
+Apps for the DO101 course.
